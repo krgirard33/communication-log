@@ -1,4 +1,35 @@
 body {
     color: white;
     background-color: black;
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+ }
+
+ .command {
+    border: 3px solid crimson; 
+    color:crimson; 
+    padding: 20px; 
+    margin: 10px;
+ }
+
+ li {
+    margin-left: 25px; 
+ }
+
+ div.floating {
+    background-color: chartreuse;
+    color:black;
+    margin: 10px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: medium;
+    padding: 25px;
+ }
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
  }
